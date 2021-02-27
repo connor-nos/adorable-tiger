@@ -7,6 +7,7 @@ import Action from './Action';
 export default class Header extends React.Component {
     render() {
         return (
+            <img src=""
             <header id="masthead" className="site-header outer">
               <div className="inner">
                 <div className="site-header-inside">
