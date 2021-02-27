@@ -210,8 +210,6 @@
     -webkit-overflow-scrolling: touch;
     position: fixed;
     top: 0;
-    -webkit-transition: right .3s cubic-bezier(.65,.05,.36,1), visibility 0s .3s;
-    transition: right .3s cubic-bezier(.65,.05,.36,1), visibility 0s .3s;
     visibility: hidden;
     width: 100%;
     z-index: 999;
