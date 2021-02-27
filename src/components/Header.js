@@ -7,7 +7,7 @@ import Action from './Action';
 export default class Header extends React.Component {
     render() {
         return (
-            <img src=""
+            <img src="https://kiosk-dot-codelabs-site.appspot.com/codelabs/mobile-vision-ocr/img/c5134dae01ad22a5.png"
             <header id="masthead" className="site-header outer">
               <div className="inner">
                 <div className="site-header-inside">
