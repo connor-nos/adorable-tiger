@@ -43,7 +43,6 @@ export default class Body extends React.Component {
                     <body className={'palette-' + _.get(this.props, 'pageContext.site.siteMetadata.color_scheme', null) + ' accent-' + _.get(this.props, 'pageContext.site.siteMetadata.accent_color', null)} />
                 </Helmet>
                 <div id="page" className="site">
-                  <Header {...this.props} />
                   <main id="content" className="site-content">
                     {this.props.children}
                   </main>
