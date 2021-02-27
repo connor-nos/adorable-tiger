@@ -11,9 +11,6 @@ export default class Header extends React.Component {
               <img src="https://kiosk-dot-codelabs-site.appspot.com/codelabs/mobile-vision-ocr/img/c5134dae01ad22a5.png"></img>
               <div className="inner">
                 <div className="site-header-inside">
-                  <div className="site-branding">
-
-                  </div>
                   {_.get(this.props, 'pageContext.site.siteMetadata.header.has_nav', null) && (<React.Fragment>
                   <button id="menu-open" className="menu-toggle"><span className="screen-reader-text">Close Menu</span><span className="icon-menu" aria-hidden="true" /></button>
                   <nav id="main-navigation" className="site-navigation" aria-label="Main Navigation">
