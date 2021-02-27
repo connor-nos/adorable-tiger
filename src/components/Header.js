@@ -8,7 +8,7 @@ export default class Header extends React.Component {
     render() {
         return (
             <header id="masthead" className="site-header outer">
-                          <img src="https://kiosk-dot-codelabs-site.appspot.com/codelabs/mobile-vision-ocr/img/c5134dae01ad22a5.png">
+              <img src="https://kiosk-dot-codelabs-site.appspot.com/codelabs/mobile-vision-ocr/img/c5134dae01ad22a5.png">
               <div className="inner">
                 <div className="site-header-inside">
                   <div className="site-branding">
