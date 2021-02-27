@@ -72,14 +72,6 @@
                 "icon": "dribbble",
                 "new_window": true
             },
-            {
-                "type": "action",
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon": "linkedin",
-                "new_window": true
-            }
         ]
     },
     "domain": "https://adorable-tiger-a6444.netlify.app"
