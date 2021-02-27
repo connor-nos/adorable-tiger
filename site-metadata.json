@@ -4,7 +4,6 @@
     "accent_color": "pink",
     "header": {
         "type": "header",
-        "title": "Exto",
         "has_nav": true,
         "nav_links": [
             {
